@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"CTags",
+		"Function Name Display",
+		"Material Theme",
+		"NeoVintageous",
+		"Package Control",
+		"PackageResourceViewer",
+		"RainbowBrackets",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
+		"Terminus",
+		"TrailingSpaces",
+		"Vintageous",
+	],
+	"in_process_packages":
+	[
+	],
+}

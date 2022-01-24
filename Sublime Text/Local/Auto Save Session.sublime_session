@@ -1,0 +1,666 @@
+{
+	"folder_history":
+	[
+		"/D/cygwin64/home/perl",
+		"/D/cygwin64/home/lua",
+		"/D/cygwin64/home/.bash.d"
+	],
+	"last_version": 4126,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"next_update_check": 1643001763,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"SublimeLinter",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"snippet",
+						"Snippet: CDATA"
+					],
+					[
+						"make",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"active",
+						"Material Theme: Activate theme"
+					],
+					[
+						"list",
+						"Terminus: List Shells"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"neov",
+						"NeoVintageous: Toggle CTRL keys"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"neovint",
+						"NeoVintageous: Toggle CTRL keys"
+					],
+					[
+						"terminus",
+						"Terminus: Toggle Panel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf\n022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); url\nlib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.requ\nest.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdig\nest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh\n!= h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/cygwin64/home/wangfuli/openwrt/ubus/cli.c",
+				"/D/cygwin64/home/lua/lua.lua",
+				"/C/Users/wangfl217/main.c",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/User/Snippets/pubf.sublime-snippet",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+				"/D/cygwin64/home/lua/cho $VIM",
+				"/D/cygwin64/home/lua/cho $VIMRC",
+				"/D/cygwin64/home/lua/SourceInsight支持lua.txt",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/NeoVintageous/CHANGELOG.md",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+				"/D/cygwin64/home/wangfuli/pp1.txt",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"while",
+					"for",
+					"int",
+					"code"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"menu_visible": true,
+			"output.Command-line":
+			{
+				"height": 126.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 132.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"main.c",
+						"C:\\Users\\wangfl217\\main.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"fore"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/cygwin64/home/perl/.hello_world.pl.un~",
+					"settings":
+					{
+						"buffer_size": 6702,
+						"encoding": "Hexadecimal",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/cygwin64/home/perl/helloworld.pl",
+					"redo_stack":
+					[
+						[
+							16,
+							1,
+							"insert_completion",
+							{
+								"completion": "foreach ${1:my \\$${2:x}} (@${3:array}) {\n\t${4:# body...}\n}",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "fore"
+							},
+							"AgAAAG4CAAAAAAAAbgIAAAAAAAAlAAAAZm9yZWFjaCBteSAkeCAoQGFycmF5KSB7CgkjIGJvZHkuLi4KfW4CAAAAAAAAcQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB2AgAAAAAAAHsCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "\nfor"
+							},
+							"BAAAAHACAAAAAAAAcAIAAAAAAAABAAAAcm8CAAAAAAAAbwIAAAAAAAABAAAAb24CAAAAAAAAbgIAAAAAAAABAAAAZm0CAAAAAAAAbQIAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxAgAAAAAAAHECAAAAAAAAAAAAAAAA8L8"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 621,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\nprint"
+							},
+							"BgAAAG0CAAAAAAAAbgIAAAAAAAAAAAAAbgIAAAAAAABvAgAAAAAAAAAAAABvAgAAAAAAAHACAAAAAAAAAAAAAHACAAAAAAAAcQIAAAAAAAAAAAAAcQIAAAAAAAByAgAAAAAAAAAAAAByAgAAAAAAAHMCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAgAAAAAAAG0CAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAHMCAAAAAAAAdAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzAgAAAAAAAHMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							6,
+							"left_delete",
+							null,
+							"BgAAAHMCAAAAAAAAcwIAAAAAAAABAAAACnICAAAAAAAAcgIAAAAAAAABAAAAdHECAAAAAAAAcQIAAAAAAAABAAAAbnACAAAAAAAAcAIAAAAAAAABAAAAaW8CAAAAAAAAbwIAAAAAAAABAAAAcm4CAAAAAAAAbgIAAAAAAAABAAAAcA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB0AgAAAAAAAHQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAAG0CAAAAAAAAbQIAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABuAgAAAAAAAG4CAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"SublimeLinter",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"snippet",
+						"Snippet: CDATA"
+					],
+					[
+						"make",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"active",
+						"Material Theme: Activate theme"
+					],
+					[
+						"list",
+						"Terminus: List Shells"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"neov",
+						"NeoVintageous: Toggle CTRL keys"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"neovint",
+						"NeoVintageous: Toggle CTRL keys"
+					],
+					[
+						"terminus",
+						"Terminus: Toggle Panel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf\n022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); url\nlib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.requ\nest.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdig\nest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh\n!= h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/cygwin64/home/perl"
+			],
+			"file_history":
+			[
+				"/C/Users/wangfl217/main.c",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/User/Snippets/pubf.sublime-snippet",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+				"/D/cygwin64/home/lua/cho $VIM",
+				"/D/cygwin64/home/lua/cho $VIMRC",
+				"/D/cygwin64/home/lua/SourceInsight支持lua.txt",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/NeoVintageous/CHANGELOG.md",
+				"/D/cygwin64/home/lua/lua.lua",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+				"/D/cygwin64/home/wangfuli/pp1.txt",
+				"/C/Users/wangfl217/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\cygwin64\\home\\perl"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/cygwin64/home/perl/.hello_world.pl.un~",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 6702,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										376,
+										376
+									]
+								],
+								"settings":
+								{
+									"function_name_status_row": 9,
+									"is_init_dirty_state": false,
+									"origin_encoding": "Hexadecimal",
+									"syntax": "Packages/Binary/Binary.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/cygwin64/home/perl/helloworld.pl",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 621,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										621,
+										621
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+									"function_name_status_row": 29,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Command-line":
+			{
+				"height": 126.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 132.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,721,62,62,878,c1ff42d68bdf83489e2b5022789a6627",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"hello",
+						"helloworld.pl"
+					],
+					[
+						"main.c",
+						"C:\\Users\\wangfl217\\main.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

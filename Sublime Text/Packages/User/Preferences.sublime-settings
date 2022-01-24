@@ -1,0 +1,32 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_face": "",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"NeoVintageous",
+		"Six",
+		"Vintage",
+		"Vintageous",
+	],
+	"vintageous_use_super_keys": true,
+	"neovintageous_build_version": 11100,
+	"vintageous_use_ctrl_keys": false,
+	/*"material_theme_arrow_folders": true,*/
+	"material_theme_bold_tab": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_fileicons": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_tree_headings": true,
+	"material_theme_accent_acid-lime": true,
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+}

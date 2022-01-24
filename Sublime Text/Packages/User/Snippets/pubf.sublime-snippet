@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+    for (int i = 0; i < count; ++i)
+    {
+        /* code 
+    }
+
+]]></content>
+<tabTrigger>pubf</tabTrigger>
+<description>Create new public function in PHP class file.</description>
+<scope>source.c, meta.function.c, meta.block.c</scope>
+</snippet>
